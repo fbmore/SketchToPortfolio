@@ -9,6 +9,11 @@ Download, unzip and double click SketchToPortfolio.sketchplugin
 2) Log into your Free&Willing account (create a profile first at http://FreeAndWilling.com/)
 3) Drag Artboards from your Sketch file into the drop area. You can also drag PNGs and JPGs
 
+![Launch the plugin](https://fandwimages.s3.amazonaws.com/cache/SketchToPortfolio%3A%20Select%20the%20artboards%20to%20upload%20%23SketchToPortfolio%20and%20click%20Upload%20%23FWTutorial.png)
+
+![Upload the images](https://fandwimages.s3.amazonaws.com/cache/SketchToPortfolio%3A%20Drag%20the%20artboards%20into%20the%20dropzone%20%23SketchToPortfolio%20%23FWTutorial.png)
+
+
 # Tips:
 - If you organize your images into a collection you have more control on the privacy as the images won't appear in your public feed but will be visible when sharing the collection's URL.
 - You can change the visibility of each image after upload too if you want
@@ -22,4 +27,4 @@ Please tweet at @fbmore or shoot me an email at francesco@FreeAndWilling.com
 This plugin is intended to help you upload images to Free&Willing faster. A Free&Willing account is necessary.
 
 # Special Thanks
-A huge thank you to Thierry Charbonnel (@thierryc) for helping the Sketch plugin boilerplate!
+A huge thank you to Thierry Charbonnel (@thierryc) for the Sketch plugin boilerplate!

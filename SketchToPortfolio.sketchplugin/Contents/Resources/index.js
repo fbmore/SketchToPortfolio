@@ -67,9 +67,9 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-window.location = "http://localhost:3000/collections/new?feed=1";
+// window.location = "http://localhost:3000/collections/new?feed=1";
 
-// window.location = "https://freeandwilling.com/users/sign_in?sign_in=1"
+window.location = "https://freeandwilling.com/collections/new?feed=1"
 
 /***/ })
 /******/ ]);
