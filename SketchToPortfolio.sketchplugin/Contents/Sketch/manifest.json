@@ -1,0 +1,24 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Upload to Free&Willing",
+      "identifier": "run-freeandwilling",
+      "script": "command1.js"
+    }
+  ],
+  "menu": {
+    "title": "SketchToPortfolio",
+    "items": [
+      "run-freeandwilling"
+    ]
+  },
+  "version": "0.1.0",
+  "name": "SketchToPortfolio",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml",
+  "author": "Francesco Bertocci",
+  "authorEmail": "fbmore@users.noreply.github.com\n"
+}
