@@ -18,7 +18,7 @@
   "version": "0.1.0",
   "name": "SketchToPortfolio",
   "disableCocoaScriptPreprocessor": true,
-  "appcast" : "https://raw.githubusercontent.com/fbmore/SketchToPortfolio/master/appcast.xml",
+  "appcast" : "https://raw.githubusercontent.com/fbmore/sketchtoportfolio/master/appcast.xml",
   "author": "Francesco Bertocci",
   "authorEmail": "fbmore@users.noreply.github.com"
 }
