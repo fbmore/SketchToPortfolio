@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>SketchToPortfolio</title>
+		<description>Drag Sketch Artboards to your Free&Willing public feed or to a private collection of yours (portfolio, slideshow, moodboard, photogallery...). Works with PNGs and JPGs as well.</description>
+		<language>en</language>
+		<item>
+			<title>Version 0.1</title>
+			<description>
+			</description>
+			<enclosure url="https://github.com/fbmore/SketchToPortfolio/archive/master.zip" sparkle:version="0.9" />
+		</item>
+	</channel>
+</rss>
