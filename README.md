@@ -11,7 +11,7 @@ Download, unzip and double click "SketchToPortfolio.sketchplugin"
 
 You can also drag PNGs and JPGs from your desktop :)
 
-![Launch the plugin and upload images](https://github.com/fbmore/SketchToPortfolio/blob/master/SketchToPortfolio.gif?raw=true)
+![Launch the plugin and upload images](https://github.com/fbmore/SketchToPortfolio/blob/master/SketchToPortfolio.gif)
 
 # Tips:
 - If you organize your images into a collection you have more control on the privacy as the images won't appear in your public feed but will be visible when sharing the collection's URL.
