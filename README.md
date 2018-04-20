@@ -5,7 +5,7 @@ Drag Sketch Artboards to your Free&amp;Willing public feed or to a private colle
 Download, unzip and double click SketchToPortfolio.sketchplugin
 
 # Usage
-1) Launch the plugin: Plugins > SketchToPortfolio > Upload To Free&Willing
+1) Launch the plugin: Plugins > SketchToPortfolio > Upload To Free&Willing (Cmd + Control + u)
 2) Log into your Free&Willing account (create a profile first at http://FreeAndWilling.com/)
 3) Drag Artboards from your Sketch file into the drop area. You can also drag PNGs and JPGs
 

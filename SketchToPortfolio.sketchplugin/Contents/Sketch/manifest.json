@@ -6,6 +6,7 @@
     {
       "name": "Upload to Free&Willing",
       "identifier": "run-freeandwilling",
+      "shortcut" : "cmd control u",
       "script": "command1.js"
     }
   ],
