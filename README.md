@@ -2,12 +2,14 @@
 Drag Sketch Artboards to your Free&amp;Willing public feed or to a private collection of yours. Works with PNGs and JPGs as well.
 
 # Installation
-Download, unzip and double click SketchToPortfolio.sketchplugin
+Download, unzip and double click "SketchToPortfolio.sketchplugin"
 
 # Usage
 1) Launch the plugin: Plugins > SketchToPortfolio > Upload To Free&Willing (Cmd + Control + u)
 2) Log into your Free&Willing account (create a profile first at http://FreeAndWilling.com/)
-3) Drag Artboards from your Sketch file into the drop area. You can also drag PNGs and JPGs
+3) Drag Artboards from your list (not the canvas) in your Sketch file into the drop area.
+
+You can also drag PNGs and JPGs from your desktop :)
 
 ![Launch the plugin](https://fandwimages.s3.amazonaws.com/cache/SketchToPortfolio%3A%20Select%20the%20artboards%20to%20upload%20%23SketchToPortfolio%20and%20click%20Upload%20%23FWTutorial.png)
 
