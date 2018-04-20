@@ -11,10 +11,7 @@ Download, unzip and double click "SketchToPortfolio.sketchplugin"
 
 You can also drag PNGs and JPGs from your desktop :)
 
-![Launch the plugin](https://fandwimages.s3.amazonaws.com/cache/SketchToPortfolio%3A%20Select%20the%20artboards%20to%20upload%20%23SketchToPortfolio%20and%20click%20Upload%20%23FWTutorial.png)
-
-![Upload the images](https://fandwimages.s3.amazonaws.com/cache/SketchToPortfolio%3A%20Drag%20the%20artboards%20into%20the%20dropzone%20%23SketchToPortfolio%20%23FWTutorial.png)
-
+![Launch the plugin and upload images](https://www.dropbox.com/s/6sjiop29p7ak85n/SketchToPortfolio.gif?dl=1)
 
 # Tips:
 - If you organize your images into a collection you have more control on the privacy as the images won't appear in your public feed but will be visible when sharing the collection's URL.
